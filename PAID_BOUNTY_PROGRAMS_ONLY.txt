@@ -1,0 +1,5 @@
+domain|contact_email|program_url|platform|source_detection|program_type|notes
+aries.com||https://aries.com/bug-bounty|bugcrowd|security_page|PAID_BOUNTY|Found at bug-bounty 
+kashable.com||https://kashable.com/security.html|self-hosted|security_page|PAID_BOUNTY|Found at security.html 
+public.com|security@public.com|https://hackerone.com/).|hackerone|security.txt|PAID_BOUNTY|security.txt found 
+upstox.com||https://upstox.com/bug-bounty|self-hosted|security_page|PAID_BOUNTY|Found at bug-bounty 

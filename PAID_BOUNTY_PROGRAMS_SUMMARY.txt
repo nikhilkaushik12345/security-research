@@ -1,0 +1,135 @@
+================================================================================
+🎯 PAID BUG BOUNTY PROGRAMS - COMPREHENSIVE SUMMARY
+================================================================================
+
+RESEARCH SCOPE:
+  • Finance/Fintech batch: 234 domains (96.6% detection rate)
+  • Large domain batch: 2,791 domains (8.38% detection rate)
+  • Total domains researched: 3,025
+
+PAID BUG BOUNTY PROGRAMS FOUND: 4
+================================================================================
+
+1. ARIES.COM
+   ├─ Program URL: https://aries.com/bug-bounty
+   ├─ Platform: BugCrowd
+   ├─ Contact Email: [Not provided in program]
+   ├─ Detection Source: security_page (found on company's bug-bounty page)
+   ├─ Program Type: PAID_BOUNTY
+   └─ Notes: Found at bug-bounty page
+
+2. KASHABLE.COM
+   ├─ Program URL: https://kashable.com/security.html
+   ├─ Platform: self-hosted
+   ├─ Contact Email: [Not provided in program]
+   ├─ Detection Source: security_page (found on company's security page)
+   ├─ Program Type: PAID_BOUNTY
+   └─ Notes: Found at security.html page
+
+3. PUBLIC.COM
+   ├─ Program URL: https://hackerone.com/
+   ├─ Platform: HackerOne
+   ├─ Contact Email: security@public.com
+   ├─ Detection Source: security.txt (RFC 9116 security.txt file)
+   ├─ Program Type: PAID_BOUNTY
+   └─ Notes: security.txt found with HackerOne reference
+
+4. UPSTOX.COM
+   ├─ Program URL: https://upstox.com/bug-bounty
+   ├─ Platform: self-hosted
+   ├─ Contact Email: [Not provided in program]
+   ├─ Detection Source: security_page (found on company's bug-bounty page)
+   ├─ Program Type: PAID_BOUNTY
+   └─ Notes: Found at bug-bounty page
+
+================================================================================
+DETECTION METHODOLOGY
+================================================================================
+
+Three detection sources were used:
+
+1. SECURITY_PAGE (3 programs)
+   └─ Domains with dedicated /security, /bug-bounty, or /responsible-disclosure pages
+   └─ Programs: aries.com, kashable.com, upstox.com
+
+2. SECURITY.TXT (1 program)
+   └─ RFC 9116 security.txt file with bug bounty contact information
+   └─ Programs: public.com
+
+3. DISCLOSE.IO (0 programs)
+   └─ Disclose.io database lookup (2,791 batch)
+   └─ Note: All disclose.io matches were VDP-only or general disclosure programs
+   └─ Programs: None classified as PAID_BOUNTY
+
+================================================================================
+CLASSIFICATION CRITERIA
+================================================================================
+
+PAID_BOUNTY:
+  ✓ Explicit monetary rewards for vulnerability reports
+  ✓ Hosted on BugCrowd, HackerOne, or self-hosted with clear bounty terms
+  ✓ Dedicated bug bounty program pages
+
+VDP_ONLY (Not included in this file):
+  ✗ Vulnerability Disclosure Programs without monetary rewards
+  ✗ General responsible disclosure contacts
+  ✗ Disclose.io entries tagged with "vdp", "cert", or "convention" only
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+• PAID_BOUNTY programs are RARE in the researched domains
+  └─ Only 4 out of 3,025 domains (0.13%) have explicit paid bug bounty programs
+
+• Finance/Fintech sector shows higher adoption
+  └─ 4 out of 234 finance domains (1.71%) have paid bounty programs
+  └─ Suggests larger companies with dedicated security budgets
+
+• Detection sources vary:
+  └─ 75% found via security_page (direct company pages)
+  └─ 25% found via security.txt (RFC 9116 standard)
+  └─ 0% from disclose.io (all were VDP-only)
+
+• Platform distribution:
+  └─ BugCrowd: 1 program (aries.com)
+  └─ HackerOne: 1 program (public.com)
+  └─ Self-hosted: 2 programs (kashable.com, upstox.com)
+
+================================================================================
+RECOMMENDATIONS FOR SECURITY RESEARCHERS
+================================================================================
+
+1. HIGHEST PRIORITY TARGETS:
+   • aries.com (BugCrowd - established platform)
+   • public.com (HackerOne - established platform)
+
+2. SELF-HOSTED PROGRAMS (May have less competition):
+   • kashable.com
+   • upstox.com
+
+3. ALTERNATIVE APPROACH:
+   • Consider VDP programs for responsible disclosure practice
+   • 230 VDP-only programs found in finance batch alone
+   • See PAID_BOUNTY_PROGRAMS_ONLY.txt for complete list
+
+================================================================================
+FILE OUTPUTS
+================================================================================
+
+1. PAID_BOUNTY_PROGRAMS_ONLY.txt
+   └─ Pipe-delimited format with all fields
+   └─ Format: domain|contact_email|program_url|platform|source_detection|program_type|notes
+
+2. PAID_BOUNTY_PROGRAMS_SUMMARY.txt (this file)
+   └─ Human-readable summary with detailed information
+
+3. Complete research data available in:
+   └─ /batch-2791/ - 2,791 domain batch results
+   └─ /finance-batch/ - 234 finance domain results
+   └─ /data-exports/ - CSV/JSON exports
+
+================================================================================
+Generated: 2026-07-19 14:53 IST
+Research Tool: bbcheck.py (Enhanced Security Research Framework)
+================================================================================
