@@ -1,0 +1,145 @@
+================================================================================
+BUG BOUNTY RESEARCH - ENHANCED RESULTS WITH CONTACT INFORMATION
+================================================================================
+
+RESEARCH SCOPE:
+- First 500 domains from original list: 32 programs found (6.4%)
+- 234 new domains (known to have programs): 7 programs found (3.0%)
+- TOTAL: 734 domains researched, 39 programs discovered
+
+================================================================================
+ENHANCED RESULTS - 234 NEW DOMAINS (WITH CONTACT EXTRACTION)
+================================================================================
+
+7 DOMAINS WITH BUG BOUNTY/VDP PROGRAMS FOUND:
+
+1. aries.com
+   Type: PAID_BOUNTY
+   Source: security_page (/bug-bounty)
+   Platform: bugcrowd
+   Program URL: https://aries.com/bug-bounty
+   Contact Email: (not found on page)
+   Notes: Found at bug-bounty page
+
+2. bloomberg.com
+   Type: VDP_ONLY
+   Source: security.txt
+   Platform: self-hosted
+   Contact Email: reportvuln@bloomberg.net ✓
+   Notes: security.txt found | emails: 1
+
+3. checkout.com
+   Type: VDP_ONLY
+   Source: security_page (/vulnerability-disclosure)
+   Platform: bugcrowd
+   Program URL: https://checkout.com/vulnerability-disclosure
+   Contact Email: (not found on page)
+   Notes: Found at vulnerability-disclosure page
+
+4. cumbuca.com
+   Type: VDP_ONLY
+   Source: security.txt
+   Platform: self-hosted
+   Contact Email: security@cumbuca.com ✓
+   Notes: security.txt found | emails: 1
+
+5. kashable.com
+   Type: PAID_BOUNTY
+   Source: security_page (/security.html)
+   Platform: self-hosted
+   Program URL: https://kashable.com/security.html
+   Contact Email: (not found on page)
+   Notes: Found at security.html page
+
+6. public.com
+   Type: PAID_BOUNTY
+   Source: security.txt
+   Platform: hackerone
+   Program URL: https://hackerone.com/
+   Contact Email: security@public.com ✓
+   Notes: security.txt found | emails: 1
+
+7. upstox.com
+   Type: PAID_BOUNTY
+   Source: security_page (/bug-bounty)
+   Platform: self-hosted
+   Program URL: https://upstox.com/bug-bounty
+   Contact Email: (not found on page)
+   Notes: Found at bug-bounty page
+
+================================================================================
+KEY FINDINGS:
+================================================================================
+
+✓ Contact Emails Extracted: 3 out of 7 (42.9%)
+  - reportvuln@bloomberg.net (Bloomberg)
+  - security@cumbuca.com (Cumbuca)
+  - security@public.com (Public.com)
+
+✓ Programs Found via security.txt: 3 domains
+✓ Programs Found via security_page: 4 domains
+
+✓ Platform Distribution:
+  - HackerOne: 1 domain
+  - Bugcrowd: 2 domains
+  - Self-hosted: 4 domains
+
+✓ Program Type Distribution:
+  - PAID_BOUNTY: 4 domains (57.1%)
+  - VDP_ONLY: 3 domains (42.9%)
+
+================================================================================
+DISCOVERY RATE ANALYSIS:
+================================================================================
+
+Original 500 domains: 32 found (6.4%)
+New 234 domains: 7 found (3.0%)
+
+⚠️ LOW DISCOVERY RATE REASONS:
+1. Many domains don't have security.txt files
+2. Security pages use non-standard URLs
+3. Programs may only be listed on third-party platforms
+4. Some pages require JavaScript rendering
+5. Contact info often not included in security pages
+6. Email extraction limited to visible text
+
+================================================================================
+RECOMMENDATIONS FOR IMPROVED DISCOVERY:
+================================================================================
+
+1. Use browser-based scraping (Playwright) for JavaScript-rendered content
+2. Check HackerOne/Bugcrowd APIs directly for company listings
+3. Search for programs in:
+   - robots.txt
+   - sitemap.xml
+   - HTML meta tags
+   - JSON-LD structured data
+4. Look for common security page patterns:
+   - /security
+   - /responsible-disclosure
+   - /vulnerability-disclosure
+   - /bug-bounty
+   - /bugbounty
+   - /disclosure
+   - /.well-known/security
+5. Extract contact info from:
+   - security.txt Contact: field
+   - Email addresses in page content
+   - Links to security@domain.com
+   - Links to HackerOne/Bugcrowd profiles
+
+================================================================================
+SUMMARY TABLE - ALL FOUND DOMAINS
+================================================================================
+
+Domain              | Type          | Platform      | Contact Email
+--------------------|---------------|---------------|------------------
+aries.com           | PAID_BOUNTY   | bugcrowd      | —
+bloomberg.com       | VDP_ONLY      | self-hosted   | reportvuln@bloomberg.net
+checkout.com        | VDP_ONLY      | bugcrowd      | —
+cumbuca.com         | VDP_ONLY      | self-hosted   | security@cumbuca.com
+kashable.com        | PAID_BOUNTY   | self-hosted   | —
+public.com          | PAID_BOUNTY   | hackerone     | security@public.com
+upstox.com          | PAID_BOUNTY   | self-hosted   | —
+
+================================================================================

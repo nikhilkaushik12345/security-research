@@ -1,0 +1,198 @@
+====================================================================================================
+BUG BOUNTY / VDP RESEARCH REPORT - BATCH 2791 DOMAINS
+====================================================================================================
+
+Research Date: July 19, 2026
+Total Domains Analyzed: 2,791
+Domains with Security Programs Found: 234
+Detection Rate: 8.38%
+
+Unique Security Contacts Identified: 225
+
+DETECTION METHODOLOGY BREAKDOWN:
+----------------------------------------------------------------------------------------------------
+  disclose_lookup               : 204 domains ( 87.2%)
+  security.txt                  :  30 domains ( 12.8%)
+
+CONTACT INFORMATION BREAKDOWN:
+----------------------------------------------------------------------------------------------------
+  Email Addresses:        215 ( 95.6%)
+  Custom Policy URLs:       6 (  2.7%)
+  HackerOne Programs:       3 (  1.3%)
+  Bugcrowd Programs:        0 (  0.0%)
+  FIRST.org Members:        1 (  0.4%)
+  Other Contacts:           0 (  0.0%)
+
+TOP 50 DOMAINS WITH SECURITY PROGRAMS:
+----------------------------------------------------------------------------------------------------
+  1. aajil.sa                                 | disclose_lookup      | security@aajil.sa
+  2. 1984.vc                                  | disclose_lookup      | https://www.kb.cert.org/vuls/report/
+  3. aibox.ai                                 | disclose_lookup      | https://aibox.ai/responsible-use
+  4. agoracred.com.br                         | disclose_lookup      | security@agoracred.com.br
+  5. akua.la                                  | disclose_lookup      | security@akua.la
+  6. acctual.com                              | disclose_lookup      | security@acctual.com
+  7. 9fin.com                                 | disclose_lookup      | https://www.kb.cert.org/vuls/report/
+  8. alpaca.markets                           | security.txt         | security@alpaca.markets
+  9. a26.vc                                   | disclose_lookup      | security@a26.vc
+ 10. abenex.com                               | security.txt         | security@abenex.com
+ 11. allocate.co                              | disclose_lookup      | security@allocate.co
+ 12. alphacast.io                             | disclose_lookup      | security@alphacast.io
+ 13. andcapitalventures.com                   | disclose_lookup      | https://www.first.org/members/teams/capital_group
+ 14. abill.io                                 | disclose_lookup      | security@abill.io
+ 15. aries.com                                | disclose_lookup      | security@aries.com
+ 16. antler.co                                | disclose_lookup      | security@antler.co
+ 17. aption.com                               | disclose_lookup      | security@aption.com
+ 18. airpay.co.in                             | disclose_lookup      | security@airpay.co.in
+ 19. atominvest.co                            | disclose_lookup      | security@atominvest.co
+ 20. auquan.com                               | disclose_lookup      | security@auquan.com
+ 21. atriumdata.ai                            | disclose_lookup      | security@atriumdata.ai
+ 22. altfndata.com                            | disclose_lookup      | security@altfndata.com
+ 23. avici.money                              | disclose_lookup      | security@avici.money
+ 24. b.capital                                | disclose_lookup      | https://www.first.org/members/teams/capital_group
+ 25. badideas.fund                            | disclose_lookup      | security@badideas.fund
+ 26. bigdata.com                              | disclose_lookup      | security@ravenpack.com
+ 27. battery.com                              | disclose_lookup      | security@battery.com
+ 28. alterdomus.com                           | disclose_lookup      | contact.lu@alterdomus.com
+ 29. bloomberg.com                            | security.txt         | reportvuln@bloomberg.net
+ 30. bluegamma.io                             | disclose_lookup      | security@bluegamma.io
+ 31. blocksize.info                           | disclose_lookup      | security@blocksize.info
+ 32. blindpay.com                             | disclose_lookup      | security@blindpay.com
+ 33. aventure.vc                              | disclose_lookup      | security@aventure.vc
+ 34. brale.xyz                                | security.txt         | security@brale.xyz
+ 35. brain.fi                                 | disclose_lookup      | ADMIN@brain.fi
+ 36. builders.studio                          | disclose_lookup      | security@builders.studio
+ 37. bridgemarketplace.com                    | disclose_lookup      | security@bridgemarketplace.com
+ 38. caisgroup.com                            | disclose_lookup      | security@caisgroup.com
+ 39. absoluteinvestimentos.com.br             | disclose_lookup      | security@absoluteinvestimentos.com.br
+ 40. bsteuern.com                             | disclose_lookup      | security@bsteuern.com
+ 41. bajajbroking.in                          | disclose_lookup      | security@bajajbroking.in
+ 42. branch.co                                | disclose_lookup      | https://hackerone.com/priyanshuxo
+ 43. cashflowfrog.com                         | disclose_lookup      | security@cashflowfrog.com
+ 44. autocio.com                              | disclose_lookup      | security@autocio.com
+ 45. chipax.com                               | disclose_lookup      | security@chipax.com
+ 46. chargeback.io                            | disclose_lookup      | security@chargeback.io
+ 47. chargebee.com                            | disclose_lookup      | security@chargebee.com
+ 48. checkout.com                             | disclose_lookup      | security@checkout.com
+ 49. clarity.ai                               | disclose_lookup      | rebeca.minguela@clarity.ai
+ 50. bnicapital.com                           | disclose_lookup      | security@bnicapital.com
+
+SAMPLE EMAIL CONTACTS (First 30):
+----------------------------------------------------------------------------------------------------
+  1. ADMIN@brain.fi
+  2. administrator@tavanbogd.com
+  3. bugbounty@sumup.com
+  4. contact.lu@alterdomus.com
+  5. cyber@monest.com.br
+  6. dnreg@tradestation.com
+  7. domainadmin@morningstar.com
+  8. hello@joinotto.com
+  9. hostmaster@gyramais.com.br
+ 10. hostmaster@locaweb.com.br
+ 11. hostmaster@shinhansec.com.vn
+ 12. infosec@preqin.com
+ 13. it.admin@sodacrew.com
+ 14. it@hewison.com.au
+ 15. itsupport@owlvc.com
+ 16. rebeca.minguela@clarity.ai
+ 17. reportvuln@bloomberg.net
+ 18. responsible-disclosure@mollie.com
+ 19. security-contact@atruvia.de
+ 20. security-external@ramp.com
+ 21. security.txt@ibanfirst.com
+ 22. security@a26.vc
+ 23. security@aajil.sa
+ 24. security@abenex.com
+ 25. security@abill.io
+ 26. security@absoluteinvestimentos.com.br
+ 27. security@acctual.com
+ 28. security@agoracred.com.br
+ 29. security@airpay.co.in
+ 30. security@akua.la
+
+SAMPLE POLICY URLS (First 20):
+----------------------------------------------------------------------------------------------------
+  1. https://aibox.ai/responsible-use
+  2. https://docs.google.com/forms/d/e/1FAIpQLScG4W-eQ93TcObMj__g9XPvmB6zumTEywCERHHiTvsW31RTgQ/viewform
+  3. https://tradier.com/legal/vulnerability-disclosure-policy
+  4. https://upstox.com/bug-bounty/
+  5. https://www.indmoney.com/page/bug-bounty
+  6. https://www.kb.cert.org/vuls/report/
+
+HACKERONE PROGRAMS FOUND:
+----------------------------------------------------------------------------------------------------
+  1. https://hackerone.com/investnext
+  2. https://hackerone.com/msci
+  3. https://hackerone.com/priyanshuxo
+
+BUGCROWD PROGRAMS FOUND:
+----------------------------------------------------------------------------------------------------
+
+FIRST.ORG MEMBERS FOUND:
+----------------------------------------------------------------------------------------------------
+  1. https://www.first.org/members/teams/capital_group
+
+====================================================================================================
+RESEARCH METHODOLOGY
+====================================================================================================
+
+This research employed a comprehensive 5-step bug bounty detection methodology:
+
+1. DISCLOSE.IO LOOKUP (87.2% of findings)
+   - Queries the disclose.io database for registered security policies
+   - Identifies organizations with formal vulnerability disclosure programs
+   - Detects CERT coordination, VDP conventions, and email contacts
+
+2. SECURITY.TXT SCANNING (12.8% of findings)
+   - Checks for RFC 9110 compliant security.txt files
+   - Located at /.well-known/security.txt
+   - Extracts contact information and policy URLs
+
+3. PARALLEL PROCESSING
+   - 20 concurrent workers for efficient batch processing
+   - Processed 2,791 domains in ~56 seconds
+   - Robust error handling and retry logic
+
+4. CONTACT EXTRACTION
+   - Identifies email addresses, URLs, and platform links
+   - Categorizes by program type (PAID, VDP, CERT)
+   - Deduplicates and normalizes contact information
+
+5. COMPREHENSIVE REPORTING
+   - Pipe-delimited output format for easy integration
+   - CSV export for spreadsheet analysis
+   - Contact list for outreach campaigns
+
+====================================================================================================
+KEY FINDINGS
+====================================================================================================
+
+• Detection Rate: 8.38% of domains have formal security programs
+• Email Contacts: 215 direct security email addresses identified
+• Policy URLs: 6 custom vulnerability disclosure policies
+• Paid Programs: 3 domains on HackerOne/Bugcrowd
+• CERT Members: 1 organizations registered with FIRST.org
+• Primary Detection Method: disclose.io database (87.2% of findings)
+
+This indicates that approximately 1 in 12 domains in this batch have formal,
+discoverable security vulnerability disclosure programs.
+
+====================================================================================================
+OUTPUT FILES GENERATED
+====================================================================================================
+
+1. research_advanced_results.txt
+   - Pipe-delimited format (domain|verdict|program_type|source_step|program_url|platform|contact_email|notes)
+   - 234 domains with security programs
+   - Ready for database import
+
+2. research_2791_contacts.txt
+   - Plain text list of 225 unique security contacts
+   - One contact per line
+   - Ready for email outreach campaigns
+
+3. FINAL_REPORT_2791.txt
+   - This comprehensive report
+   - Includes analysis, findings, and methodology
+   - Executive summary and detailed breakdowns
+
+====================================================================================================

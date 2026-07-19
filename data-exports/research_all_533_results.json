@@ -1,0 +1,4472 @@
+[
+  {
+    "domain": "alpaca.markets",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security_page",
+    "program_url": "https://alpaca.markets/security",
+    "platform": "self-hosted",
+    "contact_email": "support@alpaca.markets",
+    "notes": "Found at /security"
+  },
+  {
+    "domain": "a26.vc",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "airpay.co.in",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "allocate.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "alphacast.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "9fin.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "acctual.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "aajil.sa",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "absoluteinvestimentos.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "1984.vc",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "abill.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "agoracred.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "akua.la",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "alterdomus.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "andcapitalventures.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "aption.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "aibox.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "antler.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "abenex.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "autocio.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "auquan.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "altfndata.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "aries.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "b.capital",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "atominvest.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "atriumdata.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "aventure.vc",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "avici.money",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "badideas.fund",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "brain.fi",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bajajbroking.in",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "battery.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "blindpay.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "blocksize.info",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "brale.xyz",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bigdata.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bsteuern.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "cashflowfrog.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bluegamma.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bloomberg.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bnicapital.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "branch.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "bridgemarketplace.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "cumbuca.com",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security.txt",
+    "program_url": "https://cumbuca.com/security.txt",
+    "platform": "",
+    "contact_email": "mailto:security@cumbuca.com",
+    "notes": "Found via security.txt"
+  },
+  {
+    "domain": "chipax.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "caisgroup.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "checkout.com",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security_page",
+    "program_url": "https://checkout.com/responsible-disclosure",
+    "platform": "self-hosted",
+    "contact_email": "",
+    "notes": "Found at /responsible-disclosure"
+  },
+  {
+    "domain": "builders.studio",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "cashfree.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "chargebee.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "chargeback.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "century.ae",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "cofi.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "credix.finance",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "clarity.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "criterionrsch.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "clemta.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "dealflow.eu",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "dash.fi",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "dodopayments.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "cryptoquant.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "defillama.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "digitalsurge.com.au",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "danelfin.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "dowgo.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "datanomik.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "dashplan.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "embankment.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "drakerep.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "edgewaterresearch.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "dukascopy.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "fastmoss.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "fastpace.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "eukonomy.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "fintoc.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "finalto.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "firstround.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "flowcode.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "finnest.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "fundify.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "genzdealz.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "gyramais.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "ibanfirst.com",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security.txt",
+    "program_url": "https://ibanfirst.com/.well-known/security.txt",
+    "platform": "",
+    "contact_email": "mailto:security.txt@ibanfirst.com",
+    "notes": "Found via security.txt"
+  },
+  {
+    "domain": "flowcredi.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "hewison.com.au",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "goodfin.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "goldwasserexchange.be",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "gpbullhound.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "greenstreet.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "harmoney.in",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "histellar.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "forkast.gg",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "indmoney.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "hubpay.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "goodwatercap.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "icmarkets.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "guinnessgi.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "heavybit.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "insurely.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "interfacefinancial.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "inki.tech",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "inderes.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "investdefy.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "hrsubsidies.nl",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "influee.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "kashable.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "jaz.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "klubi.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "kilde.sg",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "karmelcapital.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "kourawealth.co.nz",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "investnext.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "lendingspot.net",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "lpanalyst.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "joinotto.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "maya-pci.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "masters.vc",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "luxusco.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "marketxls.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "lawtrades.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "mandaprofinanceiro.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "kredfeed.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "maniv.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "kruncher.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "leverest.net",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "mechanism.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "memberstack.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "merrittadvisory.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "morepaymentevolution.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "modrek.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "maximo.pe",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "mkt1.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "mercury.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "miracleplus.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "morningstar.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "morgans.com.au",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "moomoo.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "monest.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "n3xt.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "octus.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "mollie.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "moodys.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "nickel.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "msbureau.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "optimizedpayments.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "onepay.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "mynyfy.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "msci.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "orbitfin.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "olivepartners.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "nachonacho.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "owlvc.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "pavefi.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "optionsamurai.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "ortex.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "outdoorsy.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "pazy.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "payouts.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "paywall.one",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "paytmpayments.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "parqet.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "preqin.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "propertymanagement.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "quanthome.com",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security_page",
+    "program_url": "https://quanthome.com/security",
+    "platform": "self-hosted",
+    "contact_email": "your@email.com",
+    "notes": "Found at /security"
+  },
+  {
+    "domain": "portao3.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "printmailsolutions.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "paymob.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "payhawk.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "quiverquant.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "public.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "racap.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "rootline.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "rupeezy.in",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "quicknode.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "roundtreasury.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "rockhopper.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "quartr.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "prosal.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "smarttbot.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "ramp.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "sumup.com",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security_page",
+    "program_url": "https://sumup.com/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "9554c792fe3f41df840d6ca36332a0f5@o153781.ingest.sentry.io",
+    "notes": "Found at /security.txt"
+  },
+  {
+    "domain": "sodagift.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "southparkcommons.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "sourcecodecap.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "scanpower.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "swrecovery.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "sorellalabs.xyz",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "shinkansen.finance",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "spotpay.ai",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "shinhansec.com.vn",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "taxrise.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "synply.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tenderly.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tbobank.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "stocktwits.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tax1099.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tavanbogd.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "techstars.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "sokin.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tipranks.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "thefly.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "thorney.com.au",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tera.cloud",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "toss.im",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "trepp.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "trysmartbite.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tidewatercap.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "unify-technologies.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tuyo.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tryspecter.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tradier.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "unifiqueinvest.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "upstox.com",
+    "verdict": "FOUND",
+    "program_type": "N/A",
+    "source": "security_page",
+    "program_url": "https://upstox.com/bugbounty",
+    "platform": "self-hosted",
+    "contact_email": "complaints.mcx@upstox.com",
+    "notes": "Found at /bugbounty"
+  },
+  {
+    "domain": "tokenterminal.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "totemvc.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "tradestation.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "unest.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "vblh.de",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "versi.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "vvr-bank.de",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "yoco.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "valuein.biz",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "vntr.vc",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "we-wealth.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "vela.partners",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "xyt.one",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "ycharts.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "wecapital.com.br",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "vrnu.de",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "vico.io",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "wtax.co",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "zubi.group",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "wasabil.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "zestyfinance.com",
+    "verdict": "NOT_FOUND",
+    "program_type": "N/A",
+    "source": "none",
+    "program_url": "",
+    "platform": "",
+    "contact_email": "",
+    "notes": ""
+  },
+  {
+    "domain": "besample.app",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@besample.app",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bdtax.com.bd",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://bdtax.com.bd/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@bdtax.com.bd",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "beemdata.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@beemdata.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "betterbugs.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@betterbugs.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "betterstack.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@betterstack.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bigvu.tv",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bigvu.tv",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bigenius-x.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cert.at/en/",
+    "platform": "self-hosted",
+    "contact_email": "security@bigenius-x.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bigdata.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@ravenpack.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bhhc.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bhhc.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "binderr.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@binderr.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bfl.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bfl.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bidprime.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bidprime.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "binclusive.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@binclusive.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "beveldata.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://beveldata.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@beveldata.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "billclap.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@billclap.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bitrise.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bitrise.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bizaway.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bizaway.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blend-ai.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@blend-ai.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blinq.me",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://blinq.me/security/responsible-disclosure-program",
+    "platform": "self-hosted",
+    "contact_email": "security@blinq.me",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blocksize.info",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@blocksize.info",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bitquery.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bitquery.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bizstream.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bizstream.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bluegamma.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bluegamma.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bmsgroup.com.br",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.br/",
+    "platform": "self-hosted",
+    "contact_email": "security@bmsgroup.com.br",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bluente.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bluente.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blazesql.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://csirtsnetwork.eu/",
+    "platform": "self-hosted",
+    "contact_email": "security@blazesql.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bloomberg.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://bloomberg.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@bloomberg.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bluetriangle.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bluetriangle.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blockchain0x.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://blockchain0x.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@blockchain0x.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blindpay.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@blindpay.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blockscholes.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@blockscholes.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bounceinsights.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://bounceinsights.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@bounceinsights.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bonnie.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bonnie.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bold.security",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bold.security",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bonafide.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bonafide.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brale.xyz",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://brale.xyz/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@brale.xyz",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "boompop.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@boompop.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bnicapital.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "",
+    "platform": "self-hosted",
+    "contact_email": "security@bnicapital.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "blueshoe.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@blueshoe.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bridgemarketplace.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bridgemarketplace.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brainfab.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@brainfab.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "breakthroughsales.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@breakthroughsales.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bradsdeals.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bradsdeals.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "breezy.hr",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://csirtsnetwork.eu/",
+    "platform": "self-hosted",
+    "contact_email": "security@breezy.hr",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brain.fi",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kyberturvallisuuskeskus.fi/en/",
+    "platform": "self-hosted",
+    "contact_email": "security@brain.fi",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brandsmeetcreators.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@brandsmeetcreators.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brightmls.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://brightmls.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@brightmls.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "branch.co",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://hackerone.com/priyanshuxo",
+    "platform": "self-hosted",
+    "contact_email": "security@branch.co",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "browserless.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@browserless.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brightidea.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@brightidea.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "builders.studio",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@builders.studio",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "buffer.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://buffer.com/legal#security",
+    "platform": "self-hosted",
+    "contact_email": "security@buffer.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bsteuern.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bsteuern.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "briecomterobert.fr",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.ssi.gouv.fr/",
+    "platform": "self-hosted",
+    "contact_email": "security@briecomterobert.fr",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "buildwithtrace.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://buildwithtrace.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@buildwithtrace.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "brightedge.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@brightedge.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bullit.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cyber.gc.ca/en/incident-management",
+    "platform": "self-hosted",
+    "contact_email": "security@bullit.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "builderhead.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@builderhead.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "buymeacoffee.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@buymeacoffee.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "buddy.works",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://buddy.works/disclosure-policy",
+    "platform": "self-hosted",
+    "contact_email": "security@buddy.works",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bythen.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bythen.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bzigo.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bzigo.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "caisgroup.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@caisgroup.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bytehide.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bytehide.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cal.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cal.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cal.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "burbio.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://burbio.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@burbio.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "calendly.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://calendly.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@calendly.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "callgrid.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://callgrid.com/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@callgrid.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cabsin.org.br",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cabsin.org.br/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cabsin.org.br",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "bundledocs.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@bundledocs.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "canix.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@canix.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "capcade.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@capcade.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "campaignswell.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@campaignswell.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "capsule.video",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@capsule.video",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "canva.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://canva.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@canva.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "callpercy.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@callpercy.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "carbonarc.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@carbonarc.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "candid.org",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@candid.org",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "campcation.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@campcation.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "camsbiometrics.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert-in.org.in/",
+    "platform": "self-hosted",
+    "contact_email": "security@camsbiometrics.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "carohq.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@carohq.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "capta.co",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@capta.co",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "ccare.org.au",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.auscert.org.au/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@ccare.org.au",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "carriyo.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@carriyo.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cdsgroupe.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.ssi.gouv.fr/",
+    "platform": "self-hosted",
+    "contact_email": "security@cdsgroupe.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "causematch.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://causematch.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@causematch.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cashflowfrog.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cashflowfrog.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cashcow.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cashcow.com/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cashcow.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cashfree.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cashfree.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cevoid.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cevoid.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "channel99.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@channel99.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "channelkey.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@channelkey.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "ceo-cf.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@ceo-cf.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cbinsights.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cbinsights.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chariow.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chariow.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cfstinson.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cfstinson.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cevro.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cevro.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "checkr.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@checkr.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chisellabs.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chisellabs.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "changdobels.se",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.se/en/",
+    "platform": "self-hosted",
+    "contact_email": "security@changdobels.se",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "ceramic.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@ceramic.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chift.eu",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chift.eu",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chartmetric.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chartmetric.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chipax.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chipax.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chidoanh.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chidoanh.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chordian.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chordian.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chroniclehq.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chroniclehq.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "chetto.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@chetto.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cinode.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cinode.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "circuitry.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@circuitry.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "ci-hub.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@ci-hub.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cixon.de",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/IT-Sicherheitsvorfall/it-sicherheitsvorfall_node.html",
+    "platform": "self-hosted",
+    "contact_email": "security@cixon.de",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "civicmarketplace.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@civicmarketplace.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cizgi.net",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cizgi.net",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cirra.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cyber.gc.ca/en/incident-management",
+    "platform": "self-hosted",
+    "contact_email": "security@cirra.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clarity.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.incibe-cert.es/en",
+    "platform": "self-hosted",
+    "contact_email": "security@clarity.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "citsolutions.net",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@citsolutions.net",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "classavo.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@classavo.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clarify.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clarify.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clazar.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://clazar.io/vulnerability-disclosure-policy",
+    "platform": "self-hosted",
+    "contact_email": "security@clazar.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "classfit.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://classfit.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@classfit.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clearpointstrategy.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clearpointstrategy.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clearer.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clearer.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clerk.chat",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clerk.chat",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cleartrip.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cleartrip.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cles.org",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cles.org",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cleo.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cleo.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clickup.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://clickup.com/bug-bounty",
+    "platform": "self-hosted",
+    "contact_email": "security@clickup.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "climateactiondata.org",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@climateactiondata.org",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clint.digital",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clint.digital",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clay.earth",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clay.earth",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clickrain.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clickrain.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clockworkrecruiting.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@clockworkrecruiting.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "close.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@close.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "clinicadoleite.com.br",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.br/",
+    "platform": "self-hosted",
+    "contact_email": "security@clinicadoleite.com.br",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "closedloop.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@closedloop.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cloverly.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cloverly.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cloudeagle.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cloudeagle.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coinstats.app",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@coinstats.app",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cloudgov.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cloudgov.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cognifit.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cognifit.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cofi.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cofi.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "collegepulse.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@collegepulse.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coastapp.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@coastapp.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "collection.com.br",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.br/",
+    "platform": "self-hosted",
+    "contact_email": "security@collection.com.br",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coinmarketcap.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@coinmarketcap.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "compelling.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@compelling.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "commented.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@commented.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "comscore.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@comscore.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "conjura.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://app.conjura.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@conjura.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "connect-x.tech",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@connect-x.tech",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "companyenrich.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.usom.gov.tr/",
+    "platform": "self-hosted",
+    "contact_email": "security@companyenrich.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cones.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cones.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "companion.energy",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@companion.energy",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "compliancely.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@compliancely.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "commoninja.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@commoninja.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "comundo.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@comundo.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "contaja.com.br",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.br/",
+    "platform": "self-hosted",
+    "contact_email": "security@contaja.com.br",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "contentstudio.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@contentstudio.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "consensus.app",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@consensus.app",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "contraktor.com.br",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.br/",
+    "platform": "self-hosted",
+    "contact_email": "security@contraktor.com.br",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "conversionmediagroup.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@conversionmediagroup.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coolset.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd",
+    "platform": "self-hosted",
+    "contact_email": "security@coolset.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "contextqa.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@contextqa.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cooroundtable.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cooroundtable.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "controlle.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@controlle.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "copera.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@copera.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "copilot.money",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://copilot.money/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@copilot.money",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "conviva.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@conviva.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "copperx.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@copperx.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "copilot.tax",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@copilot.tax",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coraly.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@coraly.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "convesio.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://convesio.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@convesio.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "copilotkit.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@copilotkit.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "convex.dev",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@convex.dev",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cortea.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cortea.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "corvera.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.ncsc.gov.uk/section/about-this-website/contact-us",
+    "platform": "self-hosted",
+    "contact_email": "security@corvera.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coros.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://coros.com/report-vulnerability",
+    "platform": "self-hosted",
+    "contact_email": "security@coros.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "corneliajames.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@corneliajames.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "creatordb.app",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@creatordb.app",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "coupler.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@coupler.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "creatorland.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@creatorland.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "credplatform.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.ncsc.gov.uk/section/about-this-website/contact-us",
+    "platform": "self-hosted",
+    "contact_email": "security@credplatform.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "creatio.ch",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.ncsc.admin.ch/ncsc/en/home.html",
+    "platform": "self-hosted",
+    "contact_email": "security@creatio.ch",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "credibledata.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://credibledata.com/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@credibledata.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cryptoquant.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cryptoquant.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "crstl.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@crstl.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "criterionrsch.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@criterionrsch.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "credix.finance",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@credix.finance",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "crustdata.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@crustdata.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cuballama.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cuballama.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cuballama.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "crowdin.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://crowdin.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@crowdin.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cruva.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cruva.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cruva.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cumbuca.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cumbuca.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cumbuca.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cuebiq.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cuebiq.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "csllcnow.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@csllcnow.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cufinder.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/IT-Sicherheitsvorfall/it-sicherheitsvorfall_node.html",
+    "platform": "self-hosted",
+    "contact_email": "security@cufinder.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "curemedia.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.cert.se/en/",
+    "platform": "self-hosted",
+    "contact_email": "security@curemedia.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "curri.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@curri.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cuelinks.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cuelinks.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "curate.co",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@curate.co",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cuemath.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cuemath.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cypress.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cypress.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "customerscore.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@customerscore.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cyberarmorsystems.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cyberarmorsystems.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cuure.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cuure.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cxplanner.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://cxplanner.com/.well-known/security.txt",
+    "platform": "self-hosted",
+    "contact_email": "security@cxplanner.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "customer.io",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@customer.io",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cyberday.ai",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kyberturvallisuuskeskus.fi/en/",
+    "platform": "self-hosted",
+    "contact_email": "security@cyberday.ai",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "customily.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@customily.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cybermindr.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cybermindr.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cuttable.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cuttable.com",
+    "notes": "disclosure channel confirmed"
+  },
+  {
+    "domain": "cymulate.com",
+    "verdict": "FOUND",
+    "program_type": "VDP",
+    "source": "disclose.io",
+    "program_url": "https://www.kb.cert.org/vuls/report/",
+    "platform": "self-hosted",
+    "contact_email": "security@cymulate.com",
+    "notes": "disclosure channel confirmed"
+  }
+]

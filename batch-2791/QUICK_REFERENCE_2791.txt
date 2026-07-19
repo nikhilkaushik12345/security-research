@@ -1,0 +1,25 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                          BATCH 2791 - QUICK REFERENCE CARD                                        ║
+╠════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                    ║
+║  TOTAL DOMAINS:           2,791                                                                   ║
+║  SECURITY PROGRAMS FOUND: 234 (8.38%)                                                             ║
+║  UNIQUE CONTACTS:         225                                                                     ║
+║  PROCESSING TIME:         ~56 seconds                                                             ║
+║  PARALLEL WORKERS:        20                                                                      ║
+║                                                                                                    ║
+║  PRIMARY DETECTION:       disclose.io (87.2%)                                                     ║
+║  SECONDARY DETECTION:     security.txt (12.8%)                                                    ║
+║                                                                                                    ║
+║  EMAIL CONTACTS:          215 (95.6%)                                                             ║
+║  POLICY URLS:             6 (2.7%)                                                                ║
+║  HACKERONE PROGRAMS:      3 (1.3%)                                                                ║
+║  FIRST.ORG MEMBERS:       1 (0.4%)                                                                ║
+║                                                                                                    ║
+║  KEY FILES:                                                                                        ║
+║    • research_advanced_results.txt (pipe-delimited, 234 domains)                                  ║
+║    • research_2791_contacts.txt (225 unique contacts)                                             ║
+║    • research_2791_results.json (full metadata)                                                   ║
+║    • FINAL_REPORT_2791.txt (comprehensive report)                                                 ║
+║                                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════╝

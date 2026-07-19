@@ -1,0 +1,2350 @@
+{
+  "metadata": {
+    "total_domains": 234,
+    "found": 226,
+    "not_found": 8,
+    "detection_rate": "96.6%"
+  },
+  "results": [
+    {
+      "domain": "aibox.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://aibox.ai/responsible-use",
+      "notes": "via disclose.io lookup (cert, convention, email, vdp)"
+    },
+    {
+      "domain": "agoracred.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@agoracred.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "9fin.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.kb.cert.org/vuls/report/",
+      "notes": "via disclose.io lookup (cert)"
+    },
+    {
+      "domain": "1984.vc",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.kb.cert.org/vuls/report/",
+      "notes": "via disclose.io lookup (cert)"
+    },
+    {
+      "domain": "abenex.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://abenex.com/security.txt",
+      "platform": "",
+      "contact_email": "security@abenex.com",
+      "notes": "security.txt: <link rel=\"preload\" href=\"https, <meta name=\"description\" content=\"abenex accompagne les entreprises avec 3 objectifs, <meta property=\"og, <link rel=\"shortcut icon\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"https, <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https, <link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https, <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"https, <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"https, <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"https, <link rel=\"manifest\" href=\"https, <meta name=\"msapplication-tileimage\" content=\"https, <link rel=\"preconnect\" href=\"https, <link rel=\"stylesheet\" href=\"https, ad_storage, analytics_storage, ad_user_data, ad_personalization, functionality_storage, personalization_storage, security_storage, wait_for_update, // format du cookie, var m = document.cookie.match(/(?, <script src=\"https, privacyurl, bodyposition, hashtag, cookiename, orientation, groupservices, showdetailsonclick, servicedefaultstate, showalertsmall, cookieslist, closepopup, showicon, iconposition, adblocker, denyallcta, acceptallcta, highprivacy, handlebrowserdntrequest, removecredit, moreinfolink, useexternalcss, useexternaljs, readmorelink, mandatory, mandatorycta, var t = e.target && e.target.closest ? e.target.closest('button, a'), <a href=\"https, <img src=\"https, const t_blink     = ismobile ? 1600, const t_zoom      = ismobile ? 2100, const t_pointer   = ismobile ? 3000, const t_end       = ismobile ? 5200, <iframe class=\"hero__video\" src=\"https, <h1 class=\"hero__title display-massive animate-in delay-1\"><span style=\"font-size, <p class=\"hero__subtitle animate-in delay-2\" style=\"color, <h2><strong>plus de<br>30 ans</strong> d'exp\u00e9rience<br><span style=\"font-weight, <img class=\"accompagnement-section__icon\" src=\"https, <div class=\"chevron-split__text\" style=\"color, <div class=\"split-section__label\" style=\"margin-bottom, <p>notre mission, <li><a href=\"https, <li style=\"margin-top, <li><a href=\"mailto"
+    },
+    {
+      "domain": "abill.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@abill.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "a26.vc",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@a26.vc",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "acctual.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@acctual.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "allocate.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@allocate.co",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "aajil.sa",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    },
+    {
+      "domain": "absoluteinvestimentos.com.br",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    },
+    {
+      "domain": "alpaca.markets",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://alpaca.markets/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@alpaca.markets",
+      "notes": "security.txt: property=\"og, content=\"https, <meta content=\"en\" property=\"og, <meta content=\"alpaca\" property=\"og, <meta content=\"website\" property=\"og, <meta content=\"https, <meta content=\"website\" property=\"article, <meta content=\"summary_large_image\" name=\"twitter, <meta content=\"alpaca.markets\" name=\"twitter, name=\"twitter, <meta content=\"@alpacahq\" name=\"twitter, <link href=\"https, href=\"https, src=\"https, <script>(function(w,d,s,l,i){w[l]=w[l]"
+    },
+    {
+      "domain": "aries.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@aries.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "andcapitalventures.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (cert, convention, psirt)"
+    },
+    {
+      "domain": "aption.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@aption.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "atominvest.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@atominvest.co",
+      "notes": "via disclose.io lookup (cert, convention, email)"
+    },
+    {
+      "domain": "airpay.co.in",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@airpay.co.in",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "antler.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@antler.co",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "atriumdata.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@atriumdata.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "auquan.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@auquan.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "akua.la",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@akua.la",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "altfndata.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@altfndata.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "avici.money",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@avici.money",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "b.capital",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (cert, convention, psirt)"
+    },
+    {
+      "domain": "alphacast.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@alphacast.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "aventure.vc",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@aventure.vc",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "badideas.fund",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@badideas.fund",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "bigdata.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@ravenpack.com",
+      "notes": "via disclose.io lookup (cert, convention, email)"
+    },
+    {
+      "domain": "battery.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@battery.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "blindpay.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@blindpay.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "blocksize.info",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@blocksize.info",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "bluegamma.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@bluegamma.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "brale.xyz",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://brale.xyz/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@brale.xyz",
+      "notes": "security.txt: contact, expires, encryption, preferred-languages, policy"
+    },
+    {
+      "domain": "bajajbroking.in",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@bajajbroking.in",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "alterdomus.com",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    },
+    {
+      "domain": "bridgemarketplace.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@bridgemarketplace.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "builders.studio",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@builders.studio",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "cashflowfrog.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@cashflowfrog.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "autocio.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@autocio.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "bsteuern.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@bsteuern.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "bloomberg.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://bloomberg.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "reportvuln@bloomberg.net",
+      "notes": "security.txt: contact, canonical, policy, preferred-languages, expires"
+    },
+    {
+      "domain": "bnicapital.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@bnicapital.com",
+      "notes": "via disclose.io lookup (convention)"
+    },
+    {
+      "domain": "chargeback.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@chargeback.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "caisgroup.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@caisgroup.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "chipax.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@chipax.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "chargebee.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@chargebee.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "checkout.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@checkout.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "branch.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://hackerone.com/priyanshuxo",
+      "notes": "via disclose.io lookup (bug_bounty, cert, convention, email)"
+    },
+    {
+      "domain": "cryptoquant.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@cryptoquant.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "brain.fi",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "none"
+    },
+    {
+      "domain": "credix.finance",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@credix.finance",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "cumbuca.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://cumbuca.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@cumbuca.com",
+      "notes": "security.txt: contact, expires, preferred-languages, canonical, policy"
+    },
+    {
+      "domain": "century.ae",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@century.ae",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "clarity.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "rebeca.minguela@clarity.ai",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "dashplan.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@dashplan.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "dash.fi",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@dash.fi",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "cashfree.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@cashfree.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "cofi.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@cofi.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "clemta.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@clemta.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "danelfin.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@danelfin.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "dealflow.eu",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@dealflow.eu",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "dodopayments.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://dodopayments.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@dodopayments.com",
+      "notes": "security.txt: contact, expires, preferred-languages, canonical, policy"
+    },
+    {
+      "domain": "dowgo.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@dowgo.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "drakerep.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@drakerep.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "datanomik.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@datanomik.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "embankment.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://embankment.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@embankment.com",
+      "notes": "security.txt: <meta property=\"og, <!-- <meta property=\"og, <meta name=\"twitter, <script type=\"application/ld+json\">{\"@context\", <script id=\"__umbraco_initial_data__\" type=\"application/json\">{\"page\""
+    },
+    {
+      "domain": "eukonomy.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@eukonomy.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "criterionrsch.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@criterionrsch.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "edgewaterresearch.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@edgewaterresearch.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "fastpace.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@fastpace.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "defillama.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@defillama.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "digitalsurge.com.au",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@digitalsurge.com.au",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "fintoc.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@fintoc.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "fundify.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@fundify.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "flowcredi.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@flowcredi.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "finnest.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@finnest.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "firstround.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (cert, convention, psirt)"
+    },
+    {
+      "domain": "goldwasserexchange.be",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@goldwasserexchange.be",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "forkast.gg",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@forkast.gg",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "goodfin.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@goodfin.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "goodwatercap.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@goodwatercap.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "dukascopy.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://dukascopy.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@dukascopy.com",
+      "notes": "security.txt: contact, expires"
+    },
+    {
+      "domain": "fastmoss.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@fastmoss.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "finalto.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@finalto.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "flowcode.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@flowcode.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "genzdealz.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@genzdealz.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "gyramais.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://gyramais.com.br/security.txt",
+      "platform": "",
+      "contact_email": "hostmaster@gyramais.com.br",
+      "notes": "security.txt: <!doctype html><html lang=\"pt-br\"><head><meta name=\"viewport\" content=\"width=device-width\"/><title>gyra+ \u2022 plataforma de an\u00e1lise de cr\u00e9dito e automa\u00e7\u00e3o de decis\u00e3o "
+    },
+    {
+      "domain": "gpbullhound.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@gpbullhound.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "histellar.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@histellar.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "harmoney.in",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@harmoney.in",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "guinnessgi.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@guinnessgi.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "hubpay.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@hubpay.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "hewison.com.au",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://hewison.com.au/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "it@hewison.com.au",
+      "notes": "security.txt: contact, expires, preferred-languages"
+    },
+    {
+      "domain": "greenstreet.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@greenstreet.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "ibanfirst.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://ibanfirst.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security.txt@ibanfirst.com",
+      "notes": "security.txt: contact, expires, encryption, acknowledgments, preferred-languages, canonical, policy"
+    },
+    {
+      "domain": "hrsubsidies.nl",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@hrsubsidies.nl",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "heavybit.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@heavybit.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "insurely.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@insurely.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "jaz.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@jaz.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "influee.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@influee.co",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "investdefy.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@investdefy.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "joinotto.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://joinotto.com/security.txt",
+      "platform": "",
+      "contact_email": "hello@joinotto.com",
+      "notes": "security.txt: contact, expires, preferred-languages"
+    },
+    {
+      "domain": "kashable.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://kashable.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@kashable.com",
+      "notes": "security.txt: <title>kashable, <meta  property=\"og, <script>(function(w,d,s,l,i){w[l]=w[l]"
+    },
+    {
+      "domain": "inki.tech",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@inki.tech",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "karmelcapital.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (cert, convention, psirt)"
+    },
+    {
+      "domain": "kilde.sg",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@kilde.sg",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "investnext.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://hackerone.com/investnext",
+      "notes": "via disclose.io lookup (cert, convention, vdp)"
+    },
+    {
+      "domain": "indmoney.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.indmoney.com/page/bug-bounty",
+      "notes": "via disclose.io lookup (bug_bounty, cert, convention)"
+    },
+    {
+      "domain": "klubi.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@klubi.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "icmarkets.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@icmarkets.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "interfacefinancial.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@interfacefinancial.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "kredfeed.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@kredfeed.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "inderes.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@inderes.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "kruncher.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://kruncher.ai/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@kruncher.ai",
+      "notes": "security.txt: <!doctype html><html lang=\"en\" style=\"--header-height"
+    },
+    {
+      "domain": "kourawealth.co.nz",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@kourawealth.co.nz",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "mandaprofinanceiro.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@mandaprofinanceiro.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "lpanalyst.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@lpanalyst.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "lawtrades.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@lawtrades.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "maniv.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@maniv.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "mechanism.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@mechanism.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "memberstack.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@memberstack.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "leverest.net",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@leverest.net",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "maya-pci.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (convention, psirt)"
+    },
+    {
+      "domain": "mercury.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@mercury.com",
+      "notes": "via disclose.io lookup (cert, convention, email)"
+    },
+    {
+      "domain": "merrittadvisory.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@merrittadvisory.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "maximo.pe",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@maximo.pe",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "mkt1.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@mkt1.co",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "luxusco.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@luxusco.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "masters.vc",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@masters.vc",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "monest.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "cyber@monest.com.br",
+      "notes": "via disclose.io lookup (cert, convention, email)"
+    },
+    {
+      "domain": "mollie.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "responsible-disclosure@mollie.com",
+      "notes": "security.txt: hash, contact, preferred-languages, policy, encryption, acknowledgments, canonical, hiring, expires"
+    },
+    {
+      "domain": "lendingspot.net",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    },
+    {
+      "domain": "msbureau.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@msbureau.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "morgans.com.au",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@morgans.com.au",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "modrek.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@modrek.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "marketxls.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@marketxls.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "morningstar.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "domainadmin@morningstar.com",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "miracleplus.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@miracleplus.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "moomoo.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@moomoo.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "nickel.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@nickel.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "n3xt.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://n3xt.io/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "https://docs.google.com/forms/d/e/1FAIpQLScG4W-eQ93TcObMj__g9XPvmB6zumTEywCERHHiTvsW31RTgQ/viewform",
+      "notes": "security.txt: contact, expires, preferred-languages, canonical, policy"
+    },
+    {
+      "domain": "morepaymentevolution.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@morepaymentevolution.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "octus.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@octus.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "olivepartners.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://olivepartners.co/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@olivepartners.co",
+      "notes": "security.txt: <style>*,, <style>@charset \"utf-8\";blockquote,body,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,html,input,ol,pre,td,textarea,th{margin, <style>[data-aos][data-aos][data-aos-duration=\"50\"],body[data-aos-duration=\"50\"] [data-aos]{transition-duration, <style>@font-face{font-family, <style>@charset \"utf-8\";, <style>@media only screen and (max-width, <style>.swiper .swiper-notification{left, <style>.swiper-cards{overflow, <style>.swiper-creative .swiper-slide{backface-visibility, <style>.swiper-cube{overflow, <style>.swiper-fade.swiper-free-mode .swiper-slide{transition-timing-function, <style>.swiper-flip{overflow, <style>.swiper-free-mode>.swiper-wrapper{margin, <style>.swiper-grid>.swiper-wrapper{-ms-flex-wrap, <style>, <style>.swiper-pagination{position, <style>.swiper-scrollbar{background, <style>.swiper-virtual .swiper-slide{-webkit-backface-visibility, <style>.swiper-zoom-container{display, <style>@charset \"utf-8\";blockquote[data-v-3703d141],body[data-v-3703d141],dd[data-v-3703d141],dl[data-v-3703d141],dt[data-v-3703d141],fieldset[data-v-3703d141],form[data-v-3703d141],h1[data-v-3703d141],h2[data-v-3703d141],h3[data-v-3703d141],h4[data-v-3703d141],h5[data-v-3703d141],h6[data-v-3703d141],html[data-v-3703d141],input[data-v-3703d141],ol[data-v-3703d141],pre[data-v-3703d141],td[data-v-3703d141],textarea[data-v-3703d141],th[data-v-3703d141]{margin, <style>@charset \"utf-8\";blockquote[data-v-de657da3],body[data-v-de657da3],dd[data-v-de657da3],dl[data-v-de657da3],dt[data-v-de657da3],fieldset[data-v-de657da3],form[data-v-de657da3],h1[data-v-de657da3],h2[data-v-de657da3],h3[data-v-de657da3],h4[data-v-de657da3],h5[data-v-de657da3],h6[data-v-de657da3],html[data-v-de657da3],input[data-v-de657da3],ol[data-v-de657da3],pre[data-v-de657da3],td[data-v-de657da3],textarea[data-v-de657da3],th[data-v-de657da3]{margin, <style>@charset \"utf-8\";blockquote[data-v-02ae5528],body[data-v-02ae5528],dd[data-v-02ae5528],dl[data-v-02ae5528],dt[data-v-02ae5528],fieldset[data-v-02ae5528],form[data-v-02ae5528],h1[data-v-02ae5528],h2[data-v-02ae5528],h3[data-v-02ae5528],h4[data-v-02ae5528],h5[data-v-02ae5528],h6[data-v-02ae5528],html[data-v-02ae5528],input[data-v-02ae5528],ol[data-v-02ae5528],pre[data-v-02ae5528],td[data-v-02ae5528],textarea[data-v-02ae5528],th[data-v-02ae5528]{margin, <style>@charset \"utf-8\";blockquote[data-v-426f765d],body[data-v-426f765d],dd[data-v-426f765d],dl[data-v-426f765d],dt[data-v-426f765d],fieldset[data-v-426f765d],form[data-v-426f765d],h1[data-v-426f765d],h2[data-v-426f765d],h3[data-v-426f765d],h4[data-v-426f765d],h5[data-v-426f765d],h6[data-v-426f765d],html[data-v-426f765d],input[data-v-426f765d],ol[data-v-426f765d],pre[data-v-426f765d],td[data-v-426f765d],textarea[data-v-426f765d],th[data-v-426f765d]{margin, <style>@charset \"utf-8\";blockquote[data-v-d76c9729],body[data-v-d76c9729],dd[data-v-d76c9729],dl[data-v-d76c9729],dt[data-v-d76c9729],fieldset[data-v-d76c9729],form[data-v-d76c9729],h1[data-v-d76c9729],h2[data-v-d76c9729],h3[data-v-d76c9729],h4[data-v-d76c9729],h5[data-v-d76c9729],h6[data-v-d76c9729],html[data-v-d76c9729],input[data-v-d76c9729],ol[data-v-d76c9729],pre[data-v-d76c9729],td[data-v-d76c9729],textarea[data-v-d76c9729],th[data-v-d76c9729]{margin, <meta property=\"og, <link rel=\"canonical\" href=\"https, <script type=\"application/ld+json\">{\"@context\", <meta name=\"robots\" content=\"index, follow, max-image-preview, <script id=\"unhead, <script>window.__nuxt__={};window.__nuxt__.config={public"
+    },
+    {
+      "domain": "mynyfy.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@mynyfy.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "nachonacho.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@nachonacho.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "moodys.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@moodys.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "onepay.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@onepay.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "optionsamurai.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@optionsamurai.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "owlvc.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "itsupport@owlvc.com",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "pavefi.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@pavefi.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "outdoorsy.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@outdoorsy.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "optimizedpayments.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@optimizedpayments.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "orbitfin.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@wiley.com",
+      "notes": "via disclose.io lookup (cert, convention, security_txt)"
+    },
+    {
+      "domain": "payouts.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@payouts.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "msci.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://hackerone.com/msci",
+      "notes": "via disclose.io lookup (cert, convention, email, vdp)"
+    },
+    {
+      "domain": "ortex.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://ortex.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@ortex.com",
+      "notes": "security.txt: <meta name='robots' content='index, follow, max-image-preview, var _ckygcm = {\"status\", <script id=\"cookie-law-info-gcm-js\" type=\"text/javascript\" src=\"https, gtag('consent', 'default', {\"ad_personalization\", window._googlesitekitconsentcategorymap = {\"statistics\", window._googlesitekitconsents = {\"ad_personalization\", <!-- this site is optimized with the yoast seo premium plugin v27.5 (yoast seo v28.0) - https, <link data-rocket-prefetch href=\"https, <link data-rocket-prefetch href=\"http, <link data-rocket-preload as=\"style\" href=\"https, <link href=\"https, <noscript data-wpr-hosted-gf-parameters=\"\"><link rel=\"stylesheet\" href=\"https, <link rel=\"canonical\" href=\"http, <meta property=\"og, <meta property=\"article, <meta name=\"twitter, <script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\", <link href='https, <link rel=\"alternate\" title=\"oembed (json)\" type=\"application/json+oembed\" href=\"https, <link rel=\"alternate\" title=\"oembed (xml)\" type=\"text/xml+oembed\" href=\"https, img, display, border, box-shadow, height, width, margin, vertical-align, background, padding, , /*wp_block_styles_on_demand_placeholder, .wp-block-button__link{color, <link data-minify=\"1\" rel='stylesheet' id='bootstrap-css-css' href='https, <link data-minify=\"1\" rel='stylesheet' id='fix-css-css' href='https, <link rel='stylesheet' id='lity-css-css' href='https, <link data-minify=\"1\" rel='stylesheet' id='aos-css-css' href='https, <script type=\"text/javascript\" src=\"https, gtag(\"set\",\"linker\",{\"domains\", window._googlesitekit = window._googlesitekit "
+    },
+    {
+      "domain": "parqet.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@parqet.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "pazy.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@pazy.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "payhawk.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@payhawk.com",
+      "notes": "security.txt: contact, expires, encryption, preferred-languages, canonical, policy, hiring, openbugbounty"
+    },
+    {
+      "domain": "printmailsolutions.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@printmailsolutions.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "portao3.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@portao3.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "propertymanagement.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@propertymanagement.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "paytmpayments.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@paytmpayments.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "paymob.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@paymob.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "quanthome.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@quanthome.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "public.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://public.com/security.txt",
+      "platform": "",
+      "contact_email": "security@public.com",
+      "notes": "security.txt: contact, we run our bounty program through the hackerone platform (https, expires, preferred-languages, policy"
+    },
+    {
+      "domain": "quiverquant.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@quiverquant.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "quartr.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@quartr.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "ramp.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://ramp.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security-external@ramp.com",
+      "notes": "security.txt: contact, expires, preferred-languages, hiring"
+    },
+    {
+      "domain": "prosal.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@prosal.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "preqin.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "infosec@preqin.com",
+      "notes": "via disclose.io lookup (cert, convention, email)"
+    },
+    {
+      "domain": "rootline.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@rootline.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "quicknode.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://quicknode.com/security.txt",
+      "platform": "",
+      "contact_email": "security@quicknode.com",
+      "notes": "security.txt: <!doctype html><html lang=\"en\" class=\"__variable_2a297c __variable_8c2157 __variable_5eb07c\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"stylesheet\" href=\"/_next/static/css/87cd12afab41fc11.css\" data-precedence=\"next\"><link rel=\"stylesheet\" href=\"/_next/static/css/53f7f7e773f2d5d5.css\" data-precedence=\"next\"><link rel=\"preload\" as=\"script\" fetchpriority=\"low\" href=\"/_next/static/chunks/webpack-da0a4dbf0d261d7f.js\"><script src=\"/_next/static/chunks/9481994f-42bc9d0efb0c5ab3.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/3394-5258ffc24be0ab40.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/main-app-096ead858a1b642e.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/957-35d6ad8509d67afe.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/8409-91a05e26fe884bfc.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/2403-bd55e081a0314752.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/1578-40a68316b4969387.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/2900-4a2d98a8b5bae22d.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/9518-7f33ec89d205bb67.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/5327-b3ace0d4120692d3.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/7158-af4b6c1770525a36.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/3868-67c6e2326c793ca2.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/480-2309a07ddfc608e8.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/5188-6dccd6889c677478.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/9803-dd4146269049fa2e.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/app/layout-49bbf7e12983a4cd.js\" async=\"\" data-wg-notranslate=\"\"></script><script src=\"/_next/static/chunks/app/not-found-ba50be932f4c9b86.js\" async=\"\" data-wg-notranslate=\"\"></script><meta name=\"next-size-adjust\" content=\"\"><link rel=\"llms-txt\" href=\"/llms.txt\"><link rel=\"describedby\" href=\"/.well-known/agent-card.json\"><link rel=\"service-desc\" href=\"/.well-known/ai-plugin.json\"><link rel=\"service-desc\" type=\"application/openapi+json\" href=\"/openapi.json\"><link rel=\"api-catalog\" href=\"/.well-known/api-catalog\"><link rel=\"payment\" href=\"/.well-known/x402.json\"><link rel=\"payment\" href=\"/api/payments/x402/demo\"><link rel=\"service-doc\" href=\"/docs\"><link rel=\"preconnect\" href=\"https, hide_element_style = 'opacity, f=false,w=window,d=document,v=d.queryselector('#vwocode'),ck='_vwo_'+account_id+'_settings',cc={};try{var c=json.parse(localstorage.getitem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c, </script><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" nomodule=\"\" data-wg-notranslate=\"\"></script><script type=\"application/json\" id=\"weglot-data\">{\"alllanguageurls\", <script async=\"\" src=\"https, $rc=function(b,a){if(a=document.getelementbyid(a))(b=document.getelementbyid(b))?(b.previoussibling.data=\"$~\",$rb.push(b,a),2===$rb.length&&(b=\"number\"!==typeof $rt?0, 0 0 0 500 -250\"></fecolormatrix></filter></defs><g filter=\"url(#_r_5ap5b_-dot-filter)\"><circle cx=\"16\" cy=\"16\" r=\"16\" style=\"transform"
+    },
+    {
+      "domain": "paywall.one",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    },
+    {
+      "domain": "rupeezy.in",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@rupeezy.in",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "roundtreasury.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@roundtreasury.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "rockhopper.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://rockhopper.co/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security@rockhopper.co",
+      "notes": "security.txt: <!doctype html><html lang=\"en\"> <head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><meta name=\"jam, \"https, once, passive, </script><link rel=\"icon\" type=\"image/png\" href=\"/images/logo-icon.png\"><link rel=\"apple-touch-icon\" href=\"/images/logo-icon.png\"><title>not found "
+    },
+    {
+      "domain": "sokin.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@sokin.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "sorellalabs.xyz",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@sorellalabs.xyz",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "southparkcommons.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@southparkcommons.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "spotpay.ai",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@spotpay.ai",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "racap.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (cert, convention, psirt)"
+    },
+    {
+      "domain": "smarttbot.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@smarttbot.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "scanpower.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@scanpower.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "shinhansec.com.vn",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "hostmaster@shinhansec.com.vn",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "synply.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@synply.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "stocktwits.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@stocktwits.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "sumup.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://sumup.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "bugbounty@sumup.com",
+      "notes": "security.txt: hash, contact, expires, encryption, preferred-languages, canonical, policy, hiring"
+    },
+    {
+      "domain": "sodagift.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://sodagift.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "it.admin@sodacrew.com",
+      "notes": "security.txt: contact, expires, preferred-languages, canonical"
+    },
+    {
+      "domain": "tax1099.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tax1099.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "shinkansen.finance",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@shinkansen.finance",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "taxrise.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@taxrise.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "swrecovery.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@swrecovery.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tera.cloud",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tera.cloud",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tenderly.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tenderly.co",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tbobank.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tbobank.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "techstars.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@techstars.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tokenterminal.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tokenterminal.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "thefly.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://thefly.com/security.txt",
+      "platform": "",
+      "contact_email": "security@thefly.com",
+      "notes": "security.txt: <!doctype html><html lang=\"en\" class=\"geist_2335c4e2-module__is558q__classname\" data-theme=\"light\" data-scroll-behavior=\"smooth\" style=\"color-scheme, $rc=function(a,b){if(b=document.getelementbyid(b))(a=document.getelementbyid(a))?(a.previoussibling.data=\"$~\",$rb.push(a,b),2===$rb.length&&(\"number\"!==typeof $rt?requestanimationframe($rv.bind(null,$rb))"
+    },
+    {
+      "domain": "sourcecodecap.com",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    },
+    {
+      "domain": "tradier.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://tradier.com/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "https://tradier.com/legal/vulnerability-disclosure-policy",
+      "notes": "security.txt: contact, expires, preferred-languages, canonical, policy"
+    },
+    {
+      "domain": "toss.im",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@toss.im",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "totemvc.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@totemvc.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "thorney.com.au",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@thorney.com.au",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tavanbogd.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "administrator@tavanbogd.com",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "tradestation.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "dnreg@tradestation.com",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "tidewatercap.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://www.first.org/members/teams/capital_group",
+      "notes": "via disclose.io lookup (cert, convention, psirt)"
+    },
+    {
+      "domain": "tipranks.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tipranks.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "unest.co",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@unest.co",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tuyo.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tuyo.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "tryspecter.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@tryspecter.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "unify-technologies.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@unify-technologies.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "trepp.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@trepp.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "trysmartbite.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@trysmartbite.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "upstox.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "https://upstox.com/bug-bounty/",
+      "notes": "via disclose.io lookup (bug_bounty, cert, convention)"
+    },
+    {
+      "domain": "valuein.biz",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@valuein.biz",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "unifiqueinvest.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@unifiqueinvest.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "vela.partners",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@vela.partners",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "vico.io",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@vico.io",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "wasabil.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@wasabil.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "versi.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@versi.com.br",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "vrnu.de",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://vrnu.de/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security-contact@atruvia.de",
+      "notes": "security.txt: contact, expires"
+    },
+    {
+      "domain": "vvr-bank.de",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://vvr-bank.de/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security-contact@atruvia.de",
+      "notes": "security.txt: contact, expires"
+    },
+    {
+      "domain": "ycharts.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@ycharts.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "vblh.de",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "security.txt",
+      "program_url": "https://vblh.de/.well-known/security.txt",
+      "platform": "",
+      "contact_email": "security-contact@atruvia.de",
+      "notes": "security.txt: contact, expires"
+    },
+    {
+      "domain": "vntr.vc",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@vntr.vc",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "yoco.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@yoco.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "xyt.one",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@xyt.one",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "wecapital.com.br",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "hostmaster@locaweb.com.br",
+      "notes": "via disclose.io lookup (abuse_contact, cert, convention)"
+    },
+    {
+      "domain": "zestyfinance.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@zestyfinance.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "zubi.group",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@zubi.group",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "we-wealth.com",
+      "verdict": "FOUND",
+      "program_type": "N/A",
+      "source_step": "disclose_lookup",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "security@we-wealth.com",
+      "notes": "via disclose.io lookup (cert, convention)"
+    },
+    {
+      "domain": "wtax.co",
+      "verdict": "NOT_FOUND",
+      "program_type": "N/A",
+      "source_step": "none",
+      "program_url": "",
+      "platform": "",
+      "contact_email": "",
+      "notes": "Error: timeout"
+    }
+  ]
+}

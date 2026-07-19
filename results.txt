@@ -1,0 +1,548 @@
+domain|verdict|program_type|source_step|program_url|platform|notes
+abacum.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+a-leads.co|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+30x.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+1-commerce.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aajil.sa|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+5centscdn.net|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+1up.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+1984.vc|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+3i.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abatable.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abcsmarttech.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abcnews.go.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abcwholesale.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abble.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+4degrees.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abeautifulsite.net|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+1000ps.at|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abe.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+8m.eu|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+1fit.app|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+100hires.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abmglobal.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abcmouse.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abuse.ch|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://abuse.ch/.well-known/security.txt
+abide.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abeka.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abercrombie.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abtasty.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abra.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+academia.edu|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/vulnerability-rating-taxonomy|bugcrowd|security.txt found at https://academia.edu/.well-known/security.txt
+abusix.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://abusix.com/.well-known/security.txt
+abnormalsecurity.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ableto.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+acronis.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/acronis/|hackerone|security.txt found at https://acronis.com/.well-known/security.txt
+acquia.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://acquia.com/.well-known/security.txt
+aberdeen.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abuseipdb.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abrigo.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+acclaro.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+actblue.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+abuseat.org|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+accenture.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+actian.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://communities.actian.com/s/supportservices/security-center/response-center
+acunetix.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://acunetix.com/.well-known/security.txt
+adafruit.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://adafruit.com/.well-known/security.txt
+acuityscheduling.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+activefence.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+adobe.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/adobe|hackerone|security.txt found at https://adobe.com/.well-known/security.txt
+activecampaign.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+activision.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+adyen.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://adyen.com/.well-known/security.txt
+actionfigure.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+accion.org|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+acciona.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aeromexico.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+adguard.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+agoda.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://agoda.com/.well-known/security.txt
+actioniq.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+affirm.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/affirm|hackerone|security.txt found at https://affirm.com/security.txt
+ahrefs.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+akamai.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+absci.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+airbnb.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/airbnb/|hackerone|security.txt found at https://airbnb.com/.well-known/security.txt
+adp.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+agora.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+airtable.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/airtable|hackerone|security.txt found at https://airtable.com/.well-known/security.txt
+airship.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://airship.com/.well-known/security.txt
+adroll.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+airwallex.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://airwallex.com/.well-known/security.txt
+adidas.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aerojet.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+2cloudnine.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+acxiom.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alchemer.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+airslate.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+akto.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+58pic.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+3doptix.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+1688.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alcion.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alchemy.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aircanada.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+albert.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+allegro.pl|FOUND|PAID_BOUNTY|security.txt|https://app.intigriti.com/programs/allegro/allegrobugbounty/detail|intigriti|security.txt found at https://allegro.pl/.well-known/security.txt
+almalinux.org|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://almalinux.org/.well-known/security.txt
+albertsons.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+algolia.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+allbirds.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alteryx.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://alteryx.com/.well-known/security.txt
+akeyless.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+allscripts.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+amadeus.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://amadeus.com/.well-known/security.txt
+amazon.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/amazonvrp/reports/new|hackerone|security.txt found at https://amazon.com/.well-known/security.txt
+amboss.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://amboss.com/.well-known/security.txt
+altair.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ally.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+amd.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+amplitude.com|FOUND|PAID_BOUNTY|security.txt||bugcrowd|security.txt found at https://amplitude.com/.well-known/security.txt
+amex.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alodokter.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+altium.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+altruist.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+allstate.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+android.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alibaba.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aliexpress.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+anaplan.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+airtel.in|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+99c.co.za|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+amwell.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+apify.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://apify.com/.well-known/security.txt
+alipay.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alphasense.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+angi.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+apache.org|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://security.apache.org/report/
+appian.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/appian|hackerone|security.txt found at https://appian.com/.well-known/security.txt
+aon.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+andela.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ansible.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+apigee.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aisera.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+amgen.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+anthropic.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/4f1f16ba-10d3-4d09-9ecc-c721aad90f24/embedded_submissions/new|hackerone|security.txt found at https://anthropic.com/.well-known/security.txt
+appfolio.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appsmith.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appgate.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aquasecurity.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+apollo.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+arista.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ardoq.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/ardoq|hackerone|security.txt found at https://ardoq.com/security.txt
+arcgis.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+apple.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://security.apple.com
+applovin.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appomni.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aptiv.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appdome.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appnexus.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+asana.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/asana|bugcrowd|security.txt found at https://asana.com/.well-known/security.txt
+aptible.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+armory.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+arxiv.org|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appsflyer.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+appwrite.io|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+artera.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+arnica.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ascend.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+asml.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abs-cbn.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+atlassian.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://atlassian.com/.well-known/security.txt
+ataccama.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://ataccama.com/.well-known/security.txt
+ashby.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+apexon.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+asapp.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aserto.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+armorcode.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+astrazeneca.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+auth0.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/okta|bugcrowd|security.txt found at https://auth0.com/.well-known/security.txt
+athenahealth.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+astronomer.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+atob.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+alibabacloud.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+attentive.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+audible.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+authomize.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+automox.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://automox.com/security.txt
+autify.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+arqit.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aws.amazon.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/aws_vdp|hackerone|security.txt found at https://aws.amazon.com/.well-known/security.txt
+aruba.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aviatrix.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+autodesk.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+axonius.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+avid.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+b2w.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+backmarket.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://backmarket.com/.well-known/security.txt
+badoo.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/bumble/reports/new|hackerone|security.txt found at https://badoo.com/.well-known/security.txt
+atscale.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+avast.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://gendigital.com/contact-us/report-a-vulnerability/
+auditboard.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+avaya.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+backblaze.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+avanan.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ayasdi.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+augury.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bamboohr.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bandcamp.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+basecamp.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+basistheory.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bbc.co.uk|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+bankofamerica.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+assent.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+attest.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aylanetworks.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+betterhelp.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://betterhelp.com/.well-known/security.txt
+autorabit.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+aspentech.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+beamery.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+benchling.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bayer.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+barclays.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://barclays.responsibledisclosure.com
+bitbucket.org|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://bitbucket.org/.well-known/security.txt
+bitdefender.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/bitdefender|bugcrowd|security.txt found at https://bitdefender.com/.well-known/security.txt
+behance.net|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bigcommerce.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bitwarden.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/bitwarden|hackerone|security.txt found at https://bitwarden.com/security.txt
+bitsight.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://bitsight.com/.well-known/security.txt
+abcfintech.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bbva.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bandwidth.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bitglass.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bitcoin.org|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abcam.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bigtincan.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bloomberg.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://bloomberg.com/.well-known/security.txt
+blockchain.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/blockchain|hackerone|security.txt found at https://blockchain.com/.well-known/security.txt
+bazaarvoice.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+abctechnologies.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bluejeans.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+beachbody.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+blinkist.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+boeing.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://boeing.com/security.txt
+bluevoyant.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+booking.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/bookingcom|hackerone|security.txt found at https://booking.com/.well-known/security.txt
+bettercloud.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bolt.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+braze.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/braze_inc|hackerone|security.txt found at https://braze.com/.well-known/security.txt
+betterup.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+blueshift.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+blackberry.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+blackrock.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bugcrowd.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/bugcrowd|bugcrowd|security.txt found at https://bugcrowd.com/.well-known/security.txt
+blackduck.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bolttech.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bigpanda.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+breachlock.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+box.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+buildkite.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bugsnag.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+blackkite.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+canva.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/engagements/canva/hall_of_fames|bugcrowd|security.txt found at https://canva.com/.well-known/security.txt
+bynder.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bilibili.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bmc.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+camunda.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+broadcom.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+carbonite.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+callrail.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+boozallen.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+carta.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+c3.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cargurus.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+blackline.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+browserstack.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cardlytics.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+centene.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+catchpoint.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+certik.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+chainguard.dev|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+calix.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+centrify.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bupa.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+careem.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cequence.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+chime.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+certinia.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+chronicle.security|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+chargebee.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+censys.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cerby.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+bytedance.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+chef.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cloudflare.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/cloudflare|hackerone|security.txt found at https://cloudflare.com/.well-known/security.txt
+cisco.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+clearbit.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+coda.io|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/coda_bbp|hackerone|security.txt found at https://coda.io/.well-known/security.txt
+boomi.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+checkr.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+airfrance.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+chainalysis.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+clickup.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+coinbase.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/coinbase|hackerone|security.txt found at https://coinbase.com/.well-known/security.txt
+collibra.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://collibra.com/.well-known/security.txt
+cloudinary.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+coindcx.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cognite.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+confluent.io|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://confluent.io/.well-known/security.txt
+contentsquare.com|FOUND|PAID_BOUNTY|security.txt|https://yeswehack.com/programs/contentsquare-bug-bounty-program|yeswehack|security.txt found at https://contentsquare.com/.well-known/security.txt
+cloudsek.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+contentful.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cofense.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+celigo.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cohesity.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+comcast.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+crowdstrike.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://crowdstrike.com/.well-known/security.txt
+clari.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+citrix.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+coverity.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cobalt.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+commvault.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cloudsmith.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+conviva.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+databricks.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/databricks|hackerone|security.txt found at https://databricks.com/.well-known/security.txt
+checkmarx.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+codefresh.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+datadog.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://datadog.com/security.txt
+cybersixgill.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+contrast.security|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cypress.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+d2iq.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+coupa.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+deepl.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://deepl.com/.well-known/security.txt
+datastax.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cycode.com|FOUND|PAID_BOUNTY|security_page|https://cycode.com/bug-bounty|self-hosted|Found at https://cycode.com/bug-bounty
+cybereason.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+dell.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/dell-com|bugcrowd|security.txt found at https://dell.com/.well-known/security.txt
+detectify.com|FOUND|PAID_BOUNTY|security_page|https://detectify.com/security|self-hosted|Found at https://detectify.com/security
+darktrace.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+datariskmanager.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+discord.com|FOUND|PAID_BOUNTY|security_page|https://discord.com/security|self-hosted|Found at https://discord.com/security
+digitalocean.com|FOUND|PAID_BOUNTY|security.txt|https://app.intigriti.com/programs/digitalocean/digitalocean|intigriti|security.txt found at https://digitalocean.com/.well-known/security.txt
+coralogix.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+corelight.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+deepfence.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+dropbox.com|FOUND|PAID_BOUNTY|security.txt|https://app.intigriti.com/programs/dropbox/dropbox|intigriti|security.txt found at https://dropbox.com/.well-known/security.txt
+drata.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+deepsource.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+cyberark.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+drift.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+blackbaud.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+devrev.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+claroty.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+delinea.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://trust.delinea.com/
+doppler.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+datarobot.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://www.datarobot.com/contact-us/
+elastic.co|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+deloitte.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ansys.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+exabeam.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://exabeam.com/security.txt
+expel.io|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://expel.io/.well-known/security.txt
+elevenlabs.io|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+docusign.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+devtron.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+epic.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+envoy.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+facebook.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://facebook.com/.well-known/security.txt
+experian.com|FOUND|PAID_BOUNTY|security_page|https://hackerone.com/experian|hackerone|Found at https://experian.com/responsible-disclosure
+figma.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/figma|hackerone|security.txt found at https://figma.com/.well-known/security.txt
+extrahop.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+duo.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+druva.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+elasticpath.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+endor.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+fireeye.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+fairwinds.com|FOUND|VDP_ONLY|security_page|https://fairwinds.com/responsible-disclosure|self-hosted|Found at https://fairwinds.com/responsible-disclosure
+esper.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+fivetran.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+fortinet.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://fortinet.com/.well-known/security.txt
+dataminr.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+freshworks.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/freshworks|hackerone|security.txt found at https://freshworks.com/.well-known/security.txt
+dynatrace.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://dt-url.net/l7038f0
+featurespace.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+fullstory.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://fullstory.com/.well-known/security.txt
+fluentd.org|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+fastly.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+gemini.google.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+github.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/github|hackerone|security.txt found at https://github.com/.well-known/security.txt
+gitlab.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/gitlab/|hackerone|security.txt found at https://gitlab.com/.well-known/security.txt
+forestadmin.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+gartner.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+flexera.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+gcp.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+flashpoint.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+grammarly.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/grammarly/thanks|hackerone|security.txt found at https://grammarly.com/.well-known/security.txt
+gitleaks.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+greenhouse.io|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/greenhouse?type=team|hackerone|security.txt found at https://greenhouse.io/.well-known/security.txt
+datto.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+forgerock.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+frontegg.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+hackerone.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/security/reports/new|hackerone|security.txt found at https://hackerone.com/security.txt
+google.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://g.co/vulnz
+gusto.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+glovo.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+grafana.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+hashicorp.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+hubspot.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/hubspot/thanks|hackerone|security.txt found at https://hubspot.com/.well-known/security.txt
+guardicore.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ibm.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/ibm?type=team|hackerone|security.txt found at https://ibm.com/.well-known/security.txt
+f5.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+illumio.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://illumio.com/security.txt
+indeed.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+heap.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+heroku.com|FOUND|VDP_ONLY|security_page|https://heroku.com/security|self-hosted|Found at https://heroku.com/security
+intigriti.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+invicti.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://invicti.com/.well-known/security.txt
+ionic.io|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://ionic.io/.well-known/security.txt
+gong.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+humio.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+jfrog.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://jfrog.com/.well-known/security.txt
+jamf.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://jamf.com/.well-known/security.txt
+jira.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://jira.com/.well-known/security.txt
+baidu.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+globant.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+informatica.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+huntress.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+hootsuite.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+imperva.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+kandji.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ivanti.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+forescout.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+azure.microsoft.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+linkedin.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/linkedin|hackerone|security.txt found at https://linkedin.com/.well-known/security.txt
+lacework.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+launchdarkly.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+freshdesk.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+jumpcloud.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+linode.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+legalzoom.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+linear.app|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+mattermost.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://mattermost.com/.well-known/security.txt
+looker.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+medallia.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://medallia.com/.well-known/security.txt
+ironnet.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+maxmind.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+mandiant.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+medium.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+microsoft.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://microsoft.com/.well-known/security.txt
+mixpanel.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/mixpanel|hackerone|security.txt found at https://mixpanel.com/.well-known/security.txt
+knowbe4.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+meta.com|FOUND|PAID_BOUNTY|security.txt||self-hosted|security.txt found at https://meta.com/.well-known/security.txt
+netscout.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://netscout.com/.well-known/security.txt
+mcafee.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+mongodb.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/mongodb|hackerone|security.txt found at https://mongodb.com/.well-known/security.txt
+keyfactor.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+newrelic.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/newrelic|hackerone|security.txt found at https://newrelic.com/.well-known/security.txt
+mimecast.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://mimecast.com/.well-known/security.txt
+keeper.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+highspot.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+lumu.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+nokia.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://nokia.com/.well-known/security.txt
+nmap.org|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+noname.security|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+netspi.com|FOUND|VDP_ONLY|security_page|https://netspi.com/vulnerability-disclosure|self-hosted|Found at https://netspi.com/vulnerability-disclosure
+malwarebytes.com|FOUND|PAID_BOUNTY|security_page|https://malwarebytes.com/bug-bounty|self-hosted|Found at https://malwarebytes.com/bug-bounty
+okta.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/okta|bugcrowd|security.txt found at https://okta.com/.well-known/security.txt
+nozominetworks.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://nozominetworks.com/security.txt
+notion.so|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c
+openai.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/openai|bugcrowd|security.txt found at https://openai.com/.well-known/security.txt
+opsgenie.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://opsgenie.com/.well-known/security.txt
+nexthink.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+orca.security|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://orca.security/.well-known/security.txt
+leapwork.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+nightfall.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+logrhythm.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+netsuite.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+outreach.io|FOUND|VDP_ONLY|security_page|https://outreach.io/responsible-disclosure|self-hosted|Found at https://outreach.io/responsible-disclosure
+panther.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+onfido.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+paypal.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/paypal|hackerone|security.txt found at https://paypal.com/.well-known/security.txt
+nvidia.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+mulesoft.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+pagerduty.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+infoblox.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+pluralsight.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/pluralsight|hackerone|security.txt found at https://pluralsight.com/.well-known/security.txt
+pingidentity.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://pingidentity.com/.well-known/security.txt
+netskope.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+paloaltonetworks.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+postman.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/postman|hackerone|security.txt found at https://postman.com/.well-known/security.txt
+oracle.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+recordedfuture.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/engagements/recorded-future-mbb-og|bugcrowd|security.txt found at https://recordedfuture.com/.well-known/security.txt
+rapid7.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://rapid7.com/.well-known/security.txt
+recorded-future.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+juniper.net|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+relativity.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://relativity.com/.well-known/security.txt
+reddit.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+onspring.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+mend.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+proofpoint.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+rubrik.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+nowsecure.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+redcanary.com|FOUND|VDP_ONLY|security_page|https://redcanary.com/responsible-disclosure|self-hosted|Found at https://redcanary.com/responsible-disclosure
+plaid.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+perimeter81.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+pentera.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+semgrep.dev|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+shopify.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/shopify|hackerone|security.txt found at https://shopify.com/.well-known/security.txt
+signal.org|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://signal.org/.well-known/security.txt
+slack.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/slack/|hackerone|security.txt found at https://slack.com/.well-known/security.txt
+sendgrid.com|FOUND|PAID_BOUNTY|security_page|https://sendgrid.com/security|self-hosted|Found at https://sendgrid.com/security
+snyk.io|FOUND|PAID_BOUNTY|security.txt||intigriti|security.txt found at https://snyk.io/.well-known/security.txt
+qualys.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+splunk.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://splunk.com/.well-known/security.txt
+spotify.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://spotify.com/.well-known/security.txt
+sap.com|NOT_FOUND|N/A|not_found|||security.txt found, contact=https://www.sap.com/report-a-vulnerability
+resilinc.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+sailpoint.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+stackhawk.com|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://stackhawk.com/.well-known/security.txt
+forcepoint.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+eset.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+supabase.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/supabase|hackerone|security.txt found at https://supabase.com/.well-known/security.txt
+securityscorecard.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+sumo-logic.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+carbonblack.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+square.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+tenable.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/tenable|hackerone|security.txt found at https://tenable.com/.well-known/security.txt
+tableau.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+tanium.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+terraform.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+tines.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+trivy.dev|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+twitter.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/twitter|hackerone|security.txt found at https://twitter.com/.well-known/security.txt
+salesforce.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+synopsys.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ping.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+twilio.com|FOUND|PAID_BOUNTY|security_page|https://twilio.com/security|self-hosted|Found at https://twilio.com/security
+sonatype.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+vercel.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/vercel-open-source|hackerone|security.txt found at https://vercel.com/.well-known/security.txt
+threatlocker.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+stytch.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+vanta.com|FOUND|VDP_ONLY|security_page|https://vanta.com/disclosure|self-hosted|Found at https://vanta.com/disclosure
+swimlane.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+vectra.ai|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+palo-alto.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+wiz.io|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+webex.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+yelp.com|FOUND|PAID_BOUNTY|security.txt|https://hackerone.com/yelp|hackerone|security.txt found at https://yelp.com/.well-known/security.txt
+zoom.us|FOUND|VDP_ONLY|security.txt||self-hosted|security.txt found at https://zoom.us/.well-known/security.txt
+zendesk.com|FOUND|PAID_BOUNTY|security.txt|https://bugcrowd.com/engagements/zendesk|bugcrowd|security.txt found at https://zendesk.com/.well-known/security.txt
+trendmicro.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+vmware.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+workday.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+veracode.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+uptycs.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+varonis.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+sumologic.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+xdr.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+sentinelone.com|NOT_FOUND|N/A|not_found|||security.txt found but no bounty indicators
+samsara.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+zynga.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+verizon.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+wazuh.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+panaseer.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+zscaler.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+epiq.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+ford.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+secureworks.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+servicenow.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
+sophos.com|NOT_FOUND|N/A|not_found|||No program found after full 5-step check
