@@ -1,0 +1,8 @@
+domain|program_type|platform|source_detection|program_url|contact_email|security_email|notes
+aries.com|PAID_BOUNTY|bugcrowd|security_page|https://aries.com/bug-bounty|||Found at bug-bounty 
+bloomberg.com|VDP_ONLY|self-hosted|security.txt||reportvuln@bloomberg.net||security.txt found 
+checkout.com|VDP_ONLY|bugcrowd|security_page|https://checkout.com/vulnerability-disclosure|||Found at vulnerability-disclosure 
+cumbuca.com|VDP_ONLY|self-hosted|security.txt||security@cumbuca.com||security.txt found 
+kashable.com|PAID_BOUNTY|self-hosted|security_page|https://kashable.com/security.html|||Found at security.html 
+public.com|PAID_BOUNTY|hackerone|security.txt|https://hackerone.com/).|security@public.com||security.txt found 
+upstox.com|PAID_BOUNTY|self-hosted|security_page|https://upstox.com/bug-bounty|||Found at bug-bounty 
